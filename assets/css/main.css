@@ -181,7 +181,7 @@ h6 {
 }
 
 .header .header-social-links a:hover {
-  color: white;
+  color: var(--accent-color);
 }
 
 .header .header-social-links a i {
@@ -724,6 +724,7 @@ section,
   margin: 0;
   font-size: 48px;
   font-weight: 700;
+  color: #000;
 }
 
 .hero p {

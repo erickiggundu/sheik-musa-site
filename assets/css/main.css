@@ -1252,6 +1252,11 @@ section,
   background-color: #007BFF;
 }
 
+#floating-contact-buttons .floating-btn i {
+  font-size: 24px;
+}
+
+
 .portfolio .portfolio-item .portfolio-info p {
   color: color-mix(in srgb, var(--default-color), transparent 30%);
   font-size: 14px;
